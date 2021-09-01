@@ -1,0 +1,28 @@
+h3 {
+    border-bottom: solid;
+    border-color: black;
+    color: blue;
+}
+
+table {
+    width: 50%;
+    margin: auto;
+}
+
+td:nth-child(n+2):nth-child(-n+3) {
+    text-align: center;
+}
+
+.ana, .joaquim, .tadeu {
+    background-color: lightgray;
+}
+
+.verde {
+    color:green;
+}
+
+.nota {
+    color: red;
+}
+
+

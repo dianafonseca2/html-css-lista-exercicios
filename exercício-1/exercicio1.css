@@ -1,0 +1,23 @@
+body {
+    background-color: lightcyan;
+}
+
+p {
+    color: darkred;
+    text-transform: capitalize;
+}
+
+h1 {
+    font-style: italic;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+.paragrafo1 {
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+    text-decoration: line-through;
+}
